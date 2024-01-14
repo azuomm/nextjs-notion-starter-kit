@@ -18,9 +18,9 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'azuomm',
-  github: 'azuomm',
-  linkedin: 'azuomm',
+  // linkedin: 'azuomm',
   youtube: 'channel/UCxfCgcbaqZue34a5vlKewDA', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  github: 'azuomm',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
 
